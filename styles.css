@@ -1,0 +1,146 @@
+#title{
+    background-color: #FF4C68;
+    
+}
+
+
+h1{
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 5rem;
+    line-height: 1.5;
+    padding-top: 10%;
+    padding-bottom: 5%;
+    line-height: 2rem;
+    width: 75%;
+    
+}
+
+h2{
+    font-family:  'Montserrat', sans-serif;
+    width: 50%;
+    margin-left: 24%;
+    padding-bottom: 2rem;
+    line-height: 1.5rem;
+    font-size: 5rem;
+    color: #fff;
+}
+
+
+
+.navbar{
+    font-size: 5rem;
+    
+    
+   
+}
+
+.iphone{
+    padding-top: 10% 20%;
+    transform: rotate(15deg);
+    margin-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 200px;
+    
+}
+
+#meet{
+    padding-left: 20%;
+    padding-top: 5%;
+}
+
+.nav-item{
+    padding-left: 50%;
+    font-size: 15px;
+    
+}
+
+.btn{
+    margin-right: 2%;
+    width: 35%;
+}
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+}
+
+.fab{
+    margin-left: 5%;
+}
+
+#features{
+    padding: 5% 15%;
+    
+}
+
+.feature-box {
+    text-align: center;
+    padding: 10% 55%
+}
+
+.icon{
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.icon:hover{
+    color: #ff4c68;
+}
+
+#testimonials{
+    text-align: center;
+    padding-bottom: 5%;
+    background-color: #FF4C68;
+    padding-top: 5rem;
+}
+
+#press{
+    text-align: center;
+
+    padding-bottom: 4rem;
+    background-color: #FF4C68;
+}
+
+.press-img{
+    margin-left: 2rem;
+    padding: 1rem 1rem;
+    width: 15%;
+}
+
+#pricing{
+    text-align: center;
+    padding-top: 5%;
+    text-align: left;
+    padding-left: 2%;
+    padding-right: 2%;
+    
+}
+
+.pricing-box{
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.testimonial-image{
+    border-radius: 100%;
+}
+
+#cta{
+    text-align: center;
+    background-color: #FF4C68;
+    height: 22rem;
+    padding-top: 8rem;
+}
+
+.cta-btn{
+    width: 10rem;
+    margin: 1rem;
+}
+
+#footer{
+    text-align: center;
+    height: 10rem;
+    font-size: 1.5rem;
+    padding-top: 4rem;
+}
+
